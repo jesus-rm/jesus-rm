@@ -40,6 +40,6 @@
   <a href="https://www.pinterest.com.mx/jesus_rm9" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
   <a href = "mailto:jesusdeoz900@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF4500?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jesus-rm/jesus-rm/blob/output/github-contribution-grid-snake.svg)
   
 </div>
