@@ -1,7 +1,3 @@
-<!-- Nombre y bienvenida -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=32&center=true&vCenter=true&width=1000&lines=Hola,+mi+nombre+es+Jesús+Adrián+RM;¡Bienvenid@!+:%29)](https://git.io/typing-svg)
-<br>
-
 <!-- Estadísticas y lenguajes -->
 <div align="center">
   <a href="https://github.com/jesus-rm">
