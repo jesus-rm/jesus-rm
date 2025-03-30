@@ -22,7 +22,7 @@
     <img align="center" alt="Java" height="37" width="47" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg">
     <img align="center" alt="Git" height="36" width="46" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg">
     
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/956299802046529616/956299877292339240/IMG_20220323_150904_798.jpg?width=676&height=676">
+   <img align="right" alt="Rafa-pic" height="130" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/956367139659456532/1355993243447332894/33443793_3.png?ex=67eaf29e&is=67e9a11e&hm=79b8238ffaaf0b8e979cd621bbbfb86b428ec9c89e785a90563db39b5012a897&?width=476&height=476">
 </div>
   
   ##
@@ -35,7 +35,4 @@
   <a href="https://www.youtube.com/channel/UCrNaE0Jb_VqtEvwvyruFRVw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.pinterest.com.mx/jesus_rm9" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
   <a href = "mailto:jesusdeoz900@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF4500?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  ![Snake animation](https://github.com/jesus-rm/jesus-rm/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
