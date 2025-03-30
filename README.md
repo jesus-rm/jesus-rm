@@ -22,7 +22,7 @@
     <img align="center" alt="Java" height="37" width="47" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg">
     <img align="center" alt="Git" height="36" width="46" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg">
     
-   <img align="right" alt="Rafa-pic" height="130" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/956367139659456532/1355993243447332894/33443793_3.png?ex=67eaf29e&is=67e9a11e&hm=79b8238ffaaf0b8e979cd621bbbfb86b428ec9c89e785a90563db39b5012a897&?width=476&height=476">
+   <img align="right" alt="Rafa-pic" height="130" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/956367139659456532/1355995919727726592/unsc.png?ex=67eaf51c&is=67e9a39c&hm=97bd1d91b0dfa241f469d63b309148e8d222c28b59a03b21194f2bce249287fa&?width=476&height=476">
 </div>
   
   ##
